@@ -8,3 +8,9 @@
 /*Estilos del formulario boostrap para contactenos*/
 
 /**/
+
+/*Cambar Color del footer*/
+footer{
+	background: #EEEEEE;
+	padding: 20px;
+}
