@@ -14,3 +14,8 @@ footer{
 	background: #EEEEEE;
 	padding: 20px;
 }
+
+/*Cambiar color de los titulos h2*/
+h2{
+	color: #E9896A !important
+}
